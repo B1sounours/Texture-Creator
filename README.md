@@ -7,6 +7,6 @@ Texture creation tool for unity
 
 ## Usage
 
-You can select a texture into the Load panel. I keep source textures into a folder. Surce textures can have any size. The value of the different parameters are saved automatically per source texture. Parameters value are save into `Assets/TextureCreator/Save/` and these can be deleted at any point if not needed.
+You can select an image into the Load panel. I keep my source images into a folder, they can have any size. The value of the different panel parameters are saved automatically for each source image into `Assets/TextureCreator/Save/`. These can be deleted at any point if not needed.
 
-For each panel the texture can be saved using the write button at the top. By default the textures are saved into `Assets/Textures/`. If a material has been created in the Load panel, textures will be automatically assigned to it.
+For each panel the texture can be written to disk using the write button at the top. The textures are saved into `Assets/Textures/`. If a material has been created in the Load panel, textures will be automatically assigned to it.
