@@ -128,10 +128,6 @@ public class ShaderMat : Editor {
 
     public bool CheckChange() {
 
-        if (this == null) {
-            Debug.Log("wtf");
-        }
-
         Undo.RecordObject(this, shader.name);
 
         bool changed = false;

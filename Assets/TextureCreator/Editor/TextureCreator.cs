@@ -1,5 +1,4 @@
-﻿//C# Example
-using System.IO;
+﻿using System.IO;
 using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
