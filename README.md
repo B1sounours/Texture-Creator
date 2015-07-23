@@ -3,7 +3,7 @@ Texture creation tool for unity
 
 ## Installation
 
-Download or clone the repository and copie the files into your Asset folder. The tool is then found under Window->TextureCreator.
+[Download](https://github.com/Staross/Texture-Creator/archive/master.zip) or clone the repository and copie the files into your Asset folder. The tool is then found under `Window->TextureCreator`.
 
 ## Usage
 
